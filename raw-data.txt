@@ -1,0 +1,28 @@
+[
+  {
+    _id: ObjectId('6739f0d9712cfa8eda0d8190'),
+    title: 'REST',
+    content: "REST is short for REpresentational State Transfer. It's an architectural style for designing APIs"
+  },
+  {
+    _id: ObjectId('6739f0d9712cfa8eda0d8191'),
+    title: 'API',
+    content: 'API stands for Application Programming Interface. It is a set of subroutine definitions, communications protocols, and tools for building software.'
+  },
+  {
+    _id: ObjectId('6739f0d9712cfa8eda0d8192'),
+    title: 'Bootstrap',
+    content: 'This is a framework developed by Twitter that contains pre-made front-end templates for web design'
+  },
+  {
+    _id: ObjectId('6739f0d9712cfa8eda0d8193'),
+    title: 'DOM',
+    content: 'The Document Object Model is like an API for interacting with our HTML'
+  },
+  {
+    _id: ObjectId('6739f5816baa4021f570c781'),
+    title: 'Django',
+    content: 'The web framework for perfectionists with deadlines',
+    __v: 0
+  },
+]
